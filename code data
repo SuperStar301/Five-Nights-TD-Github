@@ -1,0 +1,30 @@
+{
+  "codes": {
+    "active": {
+      "MILITARY": ["Item_Souls_3"],
+      "UPDATE8": ["Tokens_250"],
+      "100MVISITS": ["Item_Souls_25"],
+      "80KLIKES": ["Item_Souls_3"],
+      "SUMMER2026": ["Tokens_100"],
+      "UPDATE9": ["Tokens_250"],
+      "100KLIKES": ["Item_Souls_25"],
+      "150MVISITS": ["Item_Souls_25"],
+      "FREESOULS": ["Item_Souls_3"],
+      "THANKYOU": ["Tokens_100"],
+      "SEASON3": ["Tokens_250"],
+      "50KACTIVES": ["Item_Souls_3"]
+    },
+    "expired": [
+      "RELEASE", "FIVENIGHTSTD", "UPDATE1", "10KLIKES", "20KACTIVE",
+      "UPDATE2", "CLANS", "AFK", "10MVISITS", "25KLIKES", "30KACTIVES",
+      "UPDATE3", "SUMMER", "QUESTS", "40KACTIVES", "40KLIKES", "UPDATE4",
+      "SEASON2", "UPDATE5", "PLAZA", "UPDATE6", "UPDATE7", "70KLIKES",
+      "70LIKES", "NEWSOULS"
+    ]
+  },
+  "metadata": {
+    "lastUpdated": "2026-07-16",
+    "game": "Your Game Name",
+    "totalActive": 12
+  }
+}

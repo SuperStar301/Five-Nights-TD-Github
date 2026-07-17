@@ -1,30 +1,48 @@
 {
   "codes": {
-    "active": {
-      "MILITARY": ["Item_Souls_3"],
-      "UPDATE8": ["Tokens_250"],
-      "100MVISITS": ["Item_Souls_25"],
-      "80KLIKES": ["Item_Souls_3"],
-      "SUMMER2026": ["Tokens_100"],
-      "UPDATE9": ["Tokens_250"],
-      "100KLIKES": ["Item_Souls_25"],
-      "150MVISITS": ["Item_Souls_25"],
-      "FREESOULS": ["Item_Souls_3"],
-      "THANKYOU": ["Tokens_100"],
-      "SEASON3": ["Tokens_250"],
-      "50KACTIVES": ["Item_Souls_3"]
-    },
-    "expired": [
-      "RELEASE", "FIVENIGHTSTD", "UPDATE1", "10KLIKES", "20KACTIVE",
-      "UPDATE2", "CLANS", "AFK", "10MVISITS", "25KLIKES", "30KACTIVES",
-      "UPDATE3", "SUMMER", "QUESTS", "40KACTIVES", "40KLIKES", "UPDATE4",
-      "SEASON2", "UPDATE5", "PLAZA", "UPDATE6", "UPDATE7", "70KLIKES",
-      "70LIKES", "NEWSOULS"
-    ]
-  },
-  "metadata": {
-    "lastUpdated": "2026-07-17",
-    "game": "Five Nights TD",
-    "totalActive": 12
+    "MILITARY":    { "status": "active",  "rewards": ["Item_Souls_3"] },
+    "UPDATE8":     { "status": "active",  "rewards": ["Tokens_250"] },
+    "100MVISITS":  { "status": "active",  "rewards": ["Item_Souls_25"] },
+    "80KLIKES":    { "status": "active",  "rewards": ["Item_Souls_3"] },
+    "SUMMER2026":  { "status": "active",  "rewards": ["Tokens_100"] },
+    "UPDATE9":     { "status": "active",  "rewards": ["Tokens_250"] },
+    "100KLIKES":   { "status": "active",  "rewards": ["Item_Souls_25"] },
+    "150MVISITS":  { "status": "active",  "rewards": ["Item_Souls_25"] },
+    "FREESOULS":   { "status": "active",  "rewards": ["Item_Souls_3"] },
+    "THANKYOU":    { "status": "active",  "rewards": ["Tokens_100"] },
+    "SEASON3":     { "status": "active",  "rewards": ["Tokens_250"] },
+    "50KACTIVES":  { "status": "active",  "rewards": ["Item_Souls_3"] },
+
+    "CC_KREW":     { "status": "active",  "rewards": ["Tokens_250"] },
+    "CC_FLAMINGO": { "status": "active",  "rewards": ["Tokens_250"] },
+    "CC_TELANTHRIC":{ "status": "active", "rewards": ["Tokens_250"] },
+    "CC_DENIS":    { "status": "active",  "rewards": ["Tokens_250"] },
+    "CC_SUB":      { "status": "active",  "rewards": ["Item_Souls_3"] },
+
+    "RELEASE":     { "status": "expired" },
+    "FIVENIGHTSTD":{ "status": "expired" },
+    "UPDATE1":     { "status": "expired" },
+    "10KLIKES":    { "status": "expired" },
+    "20KACTIVE":   { "status": "expired" },
+    "UPDATE2":     { "status": "expired" },
+    "CLANS":       { "status": "expired" },
+    "AFK":         { "status": "expired" },
+    "10MVISITS":   { "status": "expired" },
+    "25KLIKES":    { "status": "expired" },
+    "30KACTIVES":  { "status": "expired" },
+    "UPDATE3":     { "status": "expired" },
+    "SUMMER":      { "status": "expired" },
+    "QUESTS":      { "status": "expired" },
+    "40KACTIVES":  { "status": "expired" },
+    "40KLIKES":    { "status": "expired" },
+    "UPDATE4":     { "status": "expired" },
+    "SEASON2":     { "status": "expired" },
+    "UPDATE5":     { "status": "expired" },
+    "PLAZA":       { "status": "expired" },
+    "UPDATE6":     { "status": "expired" },
+    "UPDATE7":     { "status": "expired" },
+    "70KLIKES":    { "status": "expired" },
+    "70LIKES":     { "status": "expired" },
+    "NEWSOULS":    { "status": "expired" }
   }
 }

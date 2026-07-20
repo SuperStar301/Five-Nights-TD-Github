@@ -1,3 +1,8 @@
+
+
+
+{
+
 "Arsinic": {
         "Type": "Melee",
         "Image": "rbxassetid://134190622429207",
@@ -39,7 +44,6 @@
     },
 
 
-{
     "Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",

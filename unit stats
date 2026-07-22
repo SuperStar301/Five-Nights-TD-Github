@@ -1,44 +1,43 @@
 {
 "Arsinic": {
-        "Type": "Melee",
-        "Image": "rbxassetid://139142324598013",
-        "Rarity": "Developer",
-        "PlacePrice": 600,
-        "Offset": 0.65,
-        "Max": 5,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 7,
-                "Damage": 60,
-                "Cooldown": 1
-            },
-            {
-                "Price": 800,
-                "Range": 8,
-                "Damage": 80,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1200,
-                "Range": 9,
-                "Damage": 100,
-                "Cooldown": 1
-            },
-            {
-                "Price": 2000,
-                "Range": 10,
-                "Damage": 100,
-                "Cooldown": 0.75
-            }
-        ]
+    "Type": "Melee",
+    "Image": "rbxassetid://139142324598013",
+    "Rarity": "Developer",
+    "PlacePrice": 650,
+    "Offset": 0.65,
+    "Max": 1,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
     },
-
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 12,
+            "Damage": 280,
+            "Cooldown": 0.55
+        },
+        {
+            "Price": 550,
+            "Range": 14,
+            "Damage": 480,
+            "Cooldown": 0.4
+        },
+        {
+            "Price": 950,
+            "Range": 16,
+            "Damage": 850,
+            "Cooldown": 0.3
+        },
+        {
+            "Price": 1600,
+            "Range": 18,
+            "Damage": 1600,
+            "Cooldown": 0.18
+        }
+    ]
+},
 
     "Freddy": {
         "Type": "Single",

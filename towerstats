@@ -1682,49 +1682,49 @@
             }
         ]
     },
-    "FazCade": {
-        "Type": "Farm",
-        "Image": "rbxassetid://18363529003",
-        "Rarity": "Epic",
-        "PlacePrice": 1000,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "NoEnemyAttack": true,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4,
-                "Farm": 100
-            },
-            {
-                "Price": 1500,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4,
-                "Farm": 200
-            },
-            {
-                "Price": 2000,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4,
-                "Farm": 400
-            },
-            {
-                "Price": 3000,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4,
-                "Farm": 600
-            }
-        ]
+  "FazCade": {
+    "Type": "Farm",
+    "Image": "rbxassetid://18363529003",
+    "Rarity": "Epic",
+    "PlacePrice": 1000,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
     },
+    "NoEnemyAttack": true,
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 15,
+            "Damage": 100,
+            "Cooldown": 3.5,
+            "Farm": 150
+        },
+        {
+            "Price": 1250,
+            "Range": 17,
+            "Damage": 150,
+            "Cooldown": 3,
+            "Farm": 325
+        },
+        {
+            "Price": 1750,
+            "Range": 19,
+            "Damage": 225,
+            "Cooldown": 2.5,
+            "Farm": 650
+        },
+        {
+            "Price": 2500,
+            "Range": 22,
+            "Damage": 350,
+            "Cooldown": 2,
+            "Farm": 1200
+        }
+    ]
+},
     "Phantom Mangle": {
         "Type": "Continuous Wither",
         "Image": "rbxassetid://18363533024",

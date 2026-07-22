@@ -4871,57 +4871,55 @@
                 }
             ]
         },
-"Primal Astral Bonnie": {
-    "Type": "AOE",
-    "Image": "rbxassetid://78699530520827",
-    "Rarity": "Forgotten",
-    "PlacePrice": 30000,
-    "Offset": 0.5,
-    "Max": 3,
-    "Passive": {
-        "Name": "Nuclear Fission",
-        "Description": "Completely halts enemy regeneration. Enemies affected take 20% increased damage from all sources for 5 seconds."
-    },
-    "hitboxOffset": {
-        "X": 0,
-        "Y": 0,
-        "Z": 0
-    },
-    "Upgrades": [
-        {
-            "Price": 0,
-            "Range": 34,
-            "Damage": 3500,
-            "Cooldown": 0.25,
-            "Bleed": 300,
-            "BleedTime": 5
+},
+        "Primal Astral Bonnie": {
+            "Type": "Continuous Splash",
+            "Image": "rbxassetid://78699530520827",
+            "Rarity": "Apex",
+            "PlacePrice": 20000,
+            "Offset": 0.5,
+            "Max": 3,
+            "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
+            "hitboxOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "Upgrades": [
+                {
+                    "Price": 0,
+                    "Range": 30,
+                    "Damage": 3500,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 25000,
+                    "Range": 32,
+                    "Damage": 400,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 30000,
+                    "Range": 34,
+                    "Damage": 4500,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 40000,
+                    "Range": 40,
+                    "Damage": 7000,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                }
+            ]
         },
-        {
-            "Price": 35000,
-            "Range": 37,
-            "Damage": 4300,
-            "Cooldown": 0.25,
-            "Bleed": 500,
-            "BleedTime": 5
-        },
-        {
-            "Price": 50000,
-            "Range": 41,
-            "Damage": 5300,
-            "Cooldown": 0.25,
-            "Bleed": 700,
-            "BleedTime": 5
-        },
-        {
-            "Price": 70000,
-            "Range": 48,
-            "Damage": 6500,
-            "Cooldown": 0.2,
-            "Bleed": 1000,
-            "BleedTime": 5
-        }
-    ]
-}
 "Phone Guy": {
         "Type": "AOE DMG + Slow",
         "Image": "rbxassetid://138275060327175",

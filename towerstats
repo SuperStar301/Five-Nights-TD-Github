@@ -2105,7 +2105,7 @@
     "Witch Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
-        "Rarity": "Secret",
+        "Rarity": "Limited",
         "PlacePrice": 500,
         "Max": 3,
         "Passive": {"Name": "Lethal Potions", "Description": "Deals 75% damage in poison over 3 seconds"},

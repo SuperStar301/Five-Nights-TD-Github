@@ -3862,7 +3862,7 @@
     "Purple Guy": {
         "Type": "Turret Spawner",
         "Image": "rbxassetid://74846136473322",
-        "Rarity": "Secret",
+        "Rarity": "Limited",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,

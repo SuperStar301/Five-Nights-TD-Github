@@ -1380,7 +1380,7 @@
     "Patriot Freddy": {
         "Type": "Explosion",
         "Image": "rbxassetid://18326604996",
-        "Rarity": "Secret",
+        "Rarity": "limited",
         "PlacePrice": 300,
         "Max": 4,
         "hitboxOffset": {

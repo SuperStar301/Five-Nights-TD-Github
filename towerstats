@@ -4872,7 +4872,7 @@
             ]
         },
  "Primal Astral Bonnie": {
-            "Type": "Continuous Splash",
+            "Type": "AOE",
             "Image": "rbxassetid://78699530520827",
             "Rarity": "Forgotten",
             "PlacePrice": 20000,

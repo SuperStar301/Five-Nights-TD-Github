@@ -38,6 +38,27 @@
         }
     ]
 },
+ "Dev Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Developer",
+        "PlacePrice": 300,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 100,
+                "Damage": 1000000,
+                "Cooldown": 0,1
+            }
+        ]
+    },
 
     "Freddy": {
         "Type": "Single",

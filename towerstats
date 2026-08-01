@@ -2776,7 +2776,7 @@
         "Rarity": "Developer",
         "PlacePrice": 6000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "Passive": {"Name": "Virus", "Description": "Enemies hit by Circuit Breaker's attack take 7.5% more damage for 3 seconds (15% if shiny)"},
         "hitboxOffset": {
             "X": 0,

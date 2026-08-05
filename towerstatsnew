@@ -15352,7 +15352,7 @@
     "ShowTime Purple Guy": {
         "Type": "Pierce",
         "Image": "rbxassetid://108158242380151",
-        "Rarity": "Hero",
+        "Rarity": "Developer",
         "PlacePrice": 45000,
         "Max": 1,
         "Passive": {"Name": "Its Show Time", "Description": "ShowTime Purple Guy summons the 6 souls of the Circus as Summoners which Their health is two times His Damage and  also buffs his Damage by 30%"},
